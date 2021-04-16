@@ -37,7 +37,7 @@ H_metal_distance ={'H|Pt_100': 1.109,'H|Pt_111': 1.012}
 
 morse_a_dict ={'a_H_on_Pt_100': 1.089, 'a_H_on_H_Pt_100': 1.726
                ,'a_H_on_Pt_111': 1.056, 'a_H_on_H_Pt_111': 1.726, # parameter a if fitted from the data of potential energy surfaces (PES) of H on Pt, H on H@Pt, and H in H2O;
-               'a_H_on_water': 1.787} # these PES files (*.tsv) are provided in folder of 'PES_files'
+               'a_H_on_water': 1.787} # these PES files (*.tsv) are provided 
 
 electrode_area = {'Pt100':2.672*2.672, # Pt(100) 1x1 unitcell, unit = Angstrom
                   'Pt111':5.345*4.629} # Pt(111) 1x1 unitcell, unit = Angstrom
