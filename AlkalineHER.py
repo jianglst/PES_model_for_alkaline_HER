@@ -15,7 +15,7 @@ from scipy.optimize import curve_fit
 import scipy.optimize as optimization
 from tqdm import tqdm
 from copy import deepcopy
-from DiabeticPES import *
+from DiabaticPES import *
 
 
 #constants to be used
